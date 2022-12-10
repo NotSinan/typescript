@@ -1,0 +1,24 @@
+{
+  "name": "typescript-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/labofsinan/typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/labofsinan/typescript/issues"
+  },
+  "homepage": "https://github.com/labofsinan/typescript#readme",
+  "dependencies": {
+    "@types/csv-parse": "^1.2.2",
+    "@types/node": "^18.11.12"
+  }
+}
